@@ -14,7 +14,7 @@ Este repositório contém códigos desenvolvidos durante a disciplina de Sistema
 <b>copiar.cpp</b> -> copia um arquivo de texto<br>
 <b>exemplostat.cpp</b> -> mostra os atributos de um arquivo ou diretório (semelhante ao comando <i>stat</i>)<br>
 <b>exibir.cpp</b> -> mostra o conteúdo de um arquivo de texto (semelhante ao comando <i>cat</i>)<br>
-<b>exibirperm.cpp/b> -> mostra as permissões de um arquivo (semelhante ao mostrado no comando <i>ls -l</i>)<br>
+<b>exibirperm.cpp</b> -> mostra as permissões de um arquivo (semelhante ao mostrado no comando <i>ls -l</i>)<br>
 <b>listar.cpp</b> -> mostra conteúdo (arquivos e diretórios) de um diretório<br>
 <b>listarespecial.cpp</b> -> mostra os arquivos especiais de bloco e de caracteres de um diretório ("/dev" está hardcoded, mas dá pra mudar)<br>
 <b>listarrecursivo.cpp</b> -> mostra o conteúdo de um diretório recursivamente, ou seja, mostra o conteúdo dos diretórios dentro dele<br>

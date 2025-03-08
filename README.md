@@ -20,3 +20,4 @@ Este repositório contém códigos desenvolvidos durante a disciplina de Sistema
 <b>listarrecursivo.cpp</b> -> mostra o conteúdo de um diretório recursivamente, ou seja, mostra o conteúdo dos diretórios dentro dele<br>
 <b>mover.cpp</b> -> move (renomeia) um arquivo (semelhante ao comando <i>mv</i>)<br>
 <b>mypwd</b> -> mostra o caminho para o diretório atual (semelhante ao comando <i>pwd</i>)<br>
+<b>users.sh</b> -> script que faz a leitura dos usuários do sistema no arquivo '/etc/passwd' e separa cada campo em uma variável<br>
